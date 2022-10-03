@@ -32,16 +32,16 @@ function App() {
         showStatus={false}
         width={'65%'}>
           <div className='rounded-xl'>
-            <img className='rounded-xl' src='public/img2.jpeg'></img>
+            <img className='rounded-xl' src='/img2.jpeg'></img>
           </div>
           <div className='rounded-xl'>
-            <img className='rounded-xl' src='public/img1.jpeg'></img>
+            <img className='rounded-xl' src='/img1.jpeg'></img>
           </div>
           <div className='rounded-xl'>
-            <img className='rounded-xl' src='public/img3.jpeg'></img>
+            <img className='rounded-xl' src='/img3.jpeg'></img>
           </div >
           <div className='rounded-xl'>
-            <img className='rounded-xl'src='public/img4.jpeg'></img>
+            <img className='rounded-xl'src='/img4.jpeg'></img>
           </div>
         </Carousel>
         <div>
@@ -59,10 +59,10 @@ function App() {
         </div>
         <div className='flex space-x-10 justify-center m-10 '>
           <div className='flex space-x-10 justify-center'>
-          <img className='rounded-xl' src="public/tarjeta-conciert.png" alt="" />
+          <img className='rounded-xl' src="/tarjeta-conciert.png" alt="" />
           </div>
           <div className='flex space-x-10 justify-center'>
-          <img className='rounded-xl' src="public/tarjetas-desayuno.png" alt="" />        
+          <img className='rounded-xl' src="/tarjetas-desayuno.png" alt="" />        
           </div>
         </div>
 
